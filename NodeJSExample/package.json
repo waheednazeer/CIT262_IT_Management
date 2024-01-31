@@ -4,7 +4,8 @@
   "description": "CIT262 NodeJS Assignment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node helloworld.js"
   },
   "author": "Waheed Nazir",
   "license": "ISC"
