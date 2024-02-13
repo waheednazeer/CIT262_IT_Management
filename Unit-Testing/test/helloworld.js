@@ -7,5 +7,3 @@ it ('Test Hello World', ()=>{
     assert.equal('hello', hello)
     
 })
-
-//console.log(hello());
