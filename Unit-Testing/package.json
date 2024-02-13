@@ -1,0 +1,16 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "week06 activity",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "Waheed",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "mocha": "^10.3.0"
+  }
+}
