@@ -3,7 +3,8 @@ import assert from 'assert';
 
 it ('Test Hello World', ()=>{
     const hello= sayHello();
-    console.log('Function is returning: '+hello+ '\n');
-    assert.equal('hello', hello)
+    assert.equal('hello', hello);
     
 })
+
+console.log('Function is returning: '+sayHello());
