@@ -1,0 +1,9 @@
+
+### Post a new recipe
+POST https://dev.stedi.me/login HTTP/1.1
+content-type: application/json
+
+{
+    "userName":"waheed.nazeer@gmail.com",
+    "password":"S202252w@"   
+} 
